@@ -1,0 +1,52 @@
+html, body{
+    width: 100%;
+    height: 100%;
+}
+.wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+.background{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#road{
+    position: absolute;
+    top: 70%;
+    left: 0%;}
+
+#bike{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+}
+#bike2{
+    position: absolute;
+    top: 58%;
+    left: 100%;
+}
+#bike3{
+    position: absolute;
+    top: 53%;
+    left: 200%;
+}
+#view{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+#baloon{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+#text {
+    position: absolute;
+    top: 0%;
+    left: 85%;
+}
